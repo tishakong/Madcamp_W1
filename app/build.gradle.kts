@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.madcamp_w1"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.madcamp_w1"
